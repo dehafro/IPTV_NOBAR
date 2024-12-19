@@ -344,6 +344,11 @@ https://63b2dc7196c38.streamlock.net:1937/ch30/myStream/chunklist_w38627436.m3u8
 #EXTINF:-1 tvg-name="NBATV" tvg-id="NBATV" tvg-logo="http://d3g9pb5nvr3u7.cloudfront.net/sites/54d8f0d95d90edf72bb456a8/150643041/256.jpg" group-title="NOBAR ORTU", NBATV
 http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 
+#EXTINF:-1 channel-id="samsung-IN270000230" tvg-id="IN270000230" tvg-country="in" tvg-chno="1212" tvg-name="FIFA+" tvc-guide-title="FIFA+" tvc-guide-genres="Sports" tvc-guide-description="FIFA+ brings free football entertainment to fans everywhere. Great movies and series about football around the world and historic full match replays from the FIFA World Cup™️ and the FIFA Women's World Cup™️. And much much more." tvc-guide-categories="Sports" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN270000230_20240731T012443SQUARE.png" group-title="Sports", FIFA+ (1080p)
+#EXTGRP:Sports
+#EXTGENRE:Sports
+https://jmp2.uk/sam-IN270000230.m3u8
+
 
 <======================== Premium Movies ==========================>
 
