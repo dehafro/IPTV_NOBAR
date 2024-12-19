@@ -339,9 +339,10 @@ https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/chunklist_w330464297.m3u
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/8/8a/-PadjadjaranTVLogo_Baru.jpg" group-title="Indonesia Channels",PJTV Bandung
 https://63b2dc7196c38.streamlock.net:1937/ch30/myStream/chunklist_w38627436.m3u8
 
+<======================== Nobar ORTU ==========================>
 
-
-
+#EXTINF:-1 tvg-name="NBATV" tvg-id="NBATV" tvg-logo="http://d3g9pb5nvr3u7.cloudfront.net/sites/54d8f0d95d90edf72bb456a8/150643041/256.jpg" group-title="NOBAR ORTU", NBATV
+http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 
 
 <======================== Premium Movies ==========================>
