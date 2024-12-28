@@ -340,6 +340,8 @@ https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/chunklist_w330464297.m3u
 https://63b2dc7196c38.streamlock.net:1937/ch30/myStream/chunklist_w38627436.m3u8
 
 <======================== Nobar ORTU ==========================>
+#EXTINF:-1 cuid="1021" tvg-chno="1021" tvg-name="Sport Italia" tvg-id="IT:.Sport.Italia.it" tvg-logo="https://www.sportitalia.it/wp-content/uploads/2024/02/cropped-logo-si-180x180.png" group-title="NOBAR ORTU",Sport Italia (Serie A)
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
 
 #EXTINF:-1 tvg-name="NBATV" tvg-id="NBATV" tvg-logo="http://d3g9pb5nvr3u7.cloudfront.net/sites/54d8f0d95d90edf72bb456a8/150643041/256.jpg" group-title="NOBAR ORTU", NBATV
 http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
