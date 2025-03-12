@@ -70,17 +70,27 @@ http://xtv.ooo:8080/874246786/743567899/351030.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/TNT_Sports_1_%282023%29.svg/revision/latest?cb=20230704071741" group-title="Nobar ORTU",Tnt sports 1
-http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19051/index.m3u8
+#EXTINF:-1 tvg-logo=tvg-logo="https://assets.livednow.com/logo/TNT-Sports-1.png" group-title="SPORTS"group-title="Nobar ORTU",TNT sports 1
+https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/UK_TNT_SPORTS_1/index.m3u8
 
-#EXTINF:-1 group-title="Nobar ORTU" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/18/3f28a637-5677-49fb-ad4d-126248820b5b.png?w=1200&f=PNG&p=true&q=60",TNT Sports 2
-http://abcnew.site:8880/live/D12m2439/62229525/28945.m3u8
+#EXTINF:-1 group-title="Nobar ORTU" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-2.png,TNT Sports 2
+https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/UK_TNT_SPORTS_2/index.m3u8
 
-#EXTINF:-1 group-title="Nobar ORTU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN_YIaLyVYn3OIZ1T9Gpofz4iOu_fT4oWvSQ&s",TNT Sports 4
-http://abcnew.site:8880/live/D12m2439/62229525/28947.m3u8
+#EXTINF:-1 group-title="Nobar ORTU" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-2.png,TNT Sports 3
+https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/UK_TNT_SPORTS_3/index.m3u8
+
+#EXTINF:-1 group-title="Nobar ORTU" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-2.png,TNT Sports 4
+https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/UK_TNT_SPORTS_4/index.m3u8
+
 
 #EXTINF:-1 group-title="Nobar ORTU" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-epl.png",skysports main event 
 https://stream1.freetv.fun/skysports-1.ctv
+
+#EXTINF:-1 tvg-logo="http://omahtv.mw.lt/sport/skypremierliga.png" group-title="Nobar ORTU",Sky Premier LEAGUE
+https://stream1.freetv.fun/skysports-1.ctv
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/SkySportsF1.uk.png" group-title="Nobar ORTU",Sky Sports F1
+https://stream1.freetv.fun/skysports-11.ctv
 
 #EXTINF:-1 group-title="Nobar ORTU" tvg-id="vtv1" tvg-logo="https://raw.githubusercontent.com/Hannstcott/logo/main/VTV%201.png" catchup="default" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV1 HD
 #EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1080x720,AUDIO="audiod"
